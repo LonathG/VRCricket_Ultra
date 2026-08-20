@@ -1,0 +1,26 @@
+# Visual Studio / IDE temporary files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.cache
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine build and generated directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Build/Receipts/
+
+# User-specific Unreal settings
+*.uproject.user
+
+# Mac / OS junk
+.DS_Store
+Thumbs.db
